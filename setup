@@ -1,4 +1,4 @@
-bundle_name='Surzhik.bundle'
+bundle_name='Surzhik-PC.bundle'
 destination_filename="/Library/Keyboard Layouts/$bundle_name"
 
 if [ ! -e "$destination_filename" ]
