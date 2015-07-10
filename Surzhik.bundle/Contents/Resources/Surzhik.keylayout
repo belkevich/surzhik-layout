@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.8 on 2015-02-09 at 16:24 (GMT+2)-->
+<!--Last edited by Ukelele version 2.2.8 on 2015-07-10 at 16:13 (GMT+3)-->
 <!--Created by Ukelele version 2.2.8 on 2014-07-19 at 09:14 (GMT+3)-->
 <keyboard group="7" id="19456" name="Surzhik" maxout="1">
     <layouts>
@@ -199,13 +199,13 @@
             <key code="19" output="&#x0022;"/>
             <key code="20" output="№"/>
             <key code="21" output="%"/>
-            <key code="22" output=","/>
-            <key code="23" output=":"/>
+            <key code="22" output=":"/>
+            <key code="23" output=";"/>
             <key code="24" output="+"/>
             <key code="25" output="("/>
-            <key code="26" output="."/>
+            <key code="26" output="?"/>
             <key code="27" output="_"/>
-            <key code="28" output=";"/>
+            <key code="28" output="*"/>
             <key code="29" output=")"/>
             <key code="30" output="Ъ"/>
             <key code="31" output="Щ"/>
@@ -221,7 +221,7 @@
             <key code="41" output="Ж"/>
             <key code="42" output="Ё"/>
             <key code="43" output="Б"/>
-            <key code="44" output="?"/>
+            <key code="44" output=","/>
             <key code="45" output="Т"/>
             <key code="46" output="Ь"/>
             <key code="47" output="Ю"/>
@@ -669,7 +669,7 @@
             <key code="41" output="ж"/>
             <key code="42" output="ё"/>
             <key code="43" output="б"/>
-            <key code="44" output="/"/>
+            <key code="44" output="."/>
             <key code="45" output="т"/>
             <key code="46" output="ь"/>
             <key code="47" output="ю"/>
