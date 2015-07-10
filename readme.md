@@ -1,11 +1,6 @@
-# Surzhik
+# Surzhik-PC
 
-A Mac keyboard layout for russian-speaking Ukrainian patriots.
-
-## Layout
-
-![](https://raw.githubusercontent.com/push23/surzhik-layout/master/screenshots/Surzhik%20Schema.png)
-
+This is a PC-modification of [Surzhik layout](https://github.com/push23/surzhik-layout).
 
 ## Installation
 
